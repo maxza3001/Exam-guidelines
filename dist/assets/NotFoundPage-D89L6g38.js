@@ -1,0 +1,1 @@
+import{j as t,d as o}from"./index-BsR2O8vM.js";import{E as r}from"./EmptyState-CfXifk4E.js";function s(){return t.jsx(r,{title:"ไม่พบหน้าที่ต้องการ",description:"ลิงก์ที่คุณเปิดอาจไม่ถูกต้อง หรือหน้าถูกย้ายไปตำแหน่งอื่นแล้ว",action:t.jsx(o,{to:"/",className:"btn-primary",children:"กลับหน้าแรก"})})}export{s as default};
